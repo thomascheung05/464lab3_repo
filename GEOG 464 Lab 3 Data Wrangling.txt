@@ -1,0 +1,1 @@
+object_ID;stat_num;stat_ID;stat_name;street_num;street;address_2;city;province;postal_code;country
