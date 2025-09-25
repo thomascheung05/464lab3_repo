@@ -1,0 +1,209 @@
+1;555;XYUL;Aeroport Montreal Pierre-Elliott Trudeau;;Boulevard Roméo-Vachon Nord (départs);;;Quebec;H4Y 0A4;Canada
+2;600;ALDR;Aldershot;;East Tunnel;;Burlington;Ontario;L7T 2C4;Canada
+3;344;ALEX;Alexandria;45;McDougald Street East;;North Glengarry;Ontario;K0C 1A0;Canada
+4;221;AMQU;Amqui;;Boulevard Saint-Benoît Ouest;;;Quebec;G5J 2E8;Canada
+5;636;AMYO;Amyot;;Road 8 & 20;;Unorganized North Algoma;Ontario;;Canada
+6;633;ANJO;Anjou (EXO);;8e Rue;;Montreal;Quebec;H1E 2Z6;Canada
+7;106;ARMG;Armstrong;;King Street;;Unorganized Thunder Bay District;Ontario;P0T 1A0;Canada
+8;102;AUDN;Auden;;;;Unorganized Thunder Bay District;Ontario;;Canada
+9;220;AZIL;Azilda;;Old Highway 144;;Greater Sudbury;Ontario;P0M 1B0;Canada
+10;415;BLVL;Belleville;250;Station Street;;Belleville;Ontario;K8P 2T6;Canada
+11;199;BENN;Benny;;;;Unorganized North Sudbury;Ontario;;Canada
+12;33;BIMA;Bima;;Route 3 (Zec Jeannotte);;;Quebec;;Canada
+13;15;BISC;Biscotasing;;Bisco Road;;Unorganized North Sudbury;Ontario;;Canada
+14;369;BGQU;Bolger;;Route N-806;;;Quebec;;Canada
+15;324;BOLK;Bolkow;;;;Unorganized North Sudbury;Ontario;;Canada
+16;193;BRMT;Bourmont;;;;;Quebec;;Canada
+17;322;BRMP;Brampton;27;Church Street West;;Brampton;Ontario;L6X 1S9;Canada
+18;162;BRTF;Brantford;;Wadsworth Street;;Brantford;Ontario;N3T 3V5;Canada
+19;35;BRKV;Brockville;141;Perth Street;;Brockville;Ontario;K6V 5E3;Canada
+20;245;BRQU;Brooks;;;;;Quebec;;Canada
+21;321;CANN;Cann;;Route 461;;;Quebec;;Canada
+22;113;CAPR;Capreol;;Lakeshore Street;;Greater Sudbury;Ontario;P3P 1J1;Canada
+23;98;CARA;Caramat;1011;Spruce Avenue;;;Ontario;;Canada
+24;250;CARI;Caribou;;;;;Quebec;;Canada
+25;312;CART;Cartier;;Spencer Avenue;;Unorganized North Sudbury;Ontario;P0M 1J0;Canada
+26;216;CASY;Casey;;;;;Quebec;;Canada
+27;419;CSLM;Casselman;;Station Street;;;Ontario;K0A 1M0;Canada
+28;87;CAUS;Causapscal;;Rue Cartier;;;Quebec;G0J 1J0;Canada
+29;439;CHBD;Chambord;169;Rue de la Gare;;;Quebec;G0W 1G0;Canada
+30;205;CHAP;Chapleau;;Dufferin Street;;Chapleau Township;Ontario;P0M 1K0;Canada
+31;82;CHRT;Charette;266;Rue Notre-Dame;;;Quebec;;Canada
+32;492;CHNY;Charny;;Rue du Rail;;Lévis;Quebec;G6X 2V5;Canada
+33;601;CHAT;Chatham;360;Queen Street;;Chatham;Ontario;N7M 2H6;Canada
+34;2;CHEL;Chelmsford;;Lorne Street;;Greater Sudbury;Ontario;P0M 1L0;Canada
+35;45;CHER;Cherokee;;;;;Quebec;;Canada
+36;390;CLOV;Clova;5;Rue Latagne;;;Quebec;G0X 3M0;Canada
+37;190;BDNC;Club Beaudin;;;;;Quebec;;Canada
+38;397;BLGC;Club Belanger;;Route 461;;;Quebec;;Canada
+39;48;GRGC;Club Gregoire;;;;;Quebec;;Canada
+40;319;IRQC;Club Iroquois;;Route 3 (Zec Jeannotte);;;Quebec;;Canada
+41;209;JACC;Club Jacques-Cartier;;;;Linton;Quebec;;Canada
+42;160;KPTC;Club Kapitachuan;;;;;Quebec;;Canada
+43;52;LIZO;Club Lizotte;;1e Chemin du Lac-au-Mirage;;;Quebec;;Canada
+44;182;MWWC;Club Maniwawa;;Chemin de Clova;;;Quebec;;Canada
+45;399;NCLC;Club Nicol;;Route de la Seigneurie du triton;;;Quebec;;Canada
+46;384;RTAC;Club Rita;;;;;Quebec;;Canada
+47;32;SSCC;Club Sisco;;Route 461;;;Quebec;;Canada
+48;121;SMMC;Club Sommet;;;;;Quebec;;Canada
+49;217;TRTC;Club Triton;;Route de la Seigneurie du triton;;;Quebec;;Canada
+50;411;VMLC;Club Vermillon;;Chemin Rapide-Blanc-Station;;;Quebec;;Canada
+51;178;CBRG;Cobourg;523;George Street;;;Ontario;K9A 3S6;Canada
+52;105;COLL;Collins;;;;Unorganized Thunder Bay District;Ontario;P0V 1M0;Canada
+53;392;CBAT;Consolidated Bathurst;;;;;Quebec;;Canada
+54;180;COQU;Coquar;;;;;Quebec;;Canada
+55;602;CWLL;Cornwall;;Station Road;;Cornwall;Ontario;K6J 3T7;Canada
+56;351;COTO;Coteau;50;Rue Daoust;;;Quebec;J7X 1J7;Canada
+57;147;CRSM;Cressman;;;;;Quebec;;Canada
+58;405;DRLL;Da-Rou-Lac Lodge;;;;;Quebec;;Canada
+59;410;DALT;Dalton;;;;Unorganized North Algoma;Ontario;;Canada
+60;407;DESS;Dessane;;;;;Quebec;;Canada
+61;409;DEVN;Devon;;Devon Road;;Unorganized North Sudbury;Ontario;;Canada
+62;423;DIXX;Dix;;R0806;;;Quebec;;Canada
+63;332;DORV;Dorval;;Dorval;;;Quebec;H9P 1B8;Canada
+64;630;DRMV;Drummondville;;Rue Lindsay;;Drummondville;Quebec;J2B 1G4;Canada
+65;425;DUPL;Duplessis;;Chemin Pourvoirie Duplessis;;;Quebec;;Canada
+66;88;ELSA;Elsas;;;;Unorganized North Algoma;Ontario;;Canada
+67;429;ESHR;Esher;;Esher Road;;Unorganized North Sudbury;Ontario;;Canada
+68;576;FALL;Fallowfield;;Transitway;;Ottawa;Ontario;K2J 5K9;Canada
+69;27;FALR;Falrie;;Route 3 (Zec Jeannotte);;;Quebec;;Canada
+70;72;FELX;Felix;;;;Unorganized North Sudbury;Ontario;;Canada
+71;83;FERG;Ferguson;;Chemin de Ferguson;;;Quebec;;Canada
+72;103;FERL;Ferland;;Ferland Road;;Unorganized Thunder Bay District;Ontario;;Canada
+73;441;FITZ;Fitzpatrick;;Chemin Fitzpatrick;;;Quebec;G9X 2G3;Canada
+74;79;FOLE;Foleyet;;Railroad Avenue;;Unorganized North Sudbury;Ontario;P0M 1T0;Canada
+75;639;FRKS;Forks;;;;Unorganized North Sudbury;Ontario;;Canada
+76;129;FORS;Forsythe;;Chemin de Pénétration;;;Quebec;;Canada
+77;127;FRNZ;Franz;;Franz Road;;Unorganized North Algoma;Ontario;;Canada
+78;163;GAGN;Gagnon;;Chemin de la Gare Gagnon-Siding;;;Quebec;;Canada
+79;200;GANA;Gananoque;;Station Road;;Leeds and the Thousand Islands;Ontario;K7G 1H3;Canada
+80;126;GARN;Garneau;;Rue du Triage;;Shawinigan;Quebec;G9T 5K4;Canada
+81;6;GEOR;Georgetown;;GO parking lot;;;Ontario;L7G 2H6;Canada
+82;214;GIRD;Girdwood;;;;Unorganized North Algoma;Ontario;;Canada
+83;78;GLNC;Glencoe;;Graham Street;;Southwest Middlesex;Ontario;N0L 1M0;Canada
+84;74;GOGA;Gogama;;McGowan Street;;Unorganized North Sudbury;Ontario;;Canada
+85;132;GMRE;Grand-Mere;710;Chemin du Grand-Nord;;Shawinigan;Quebec;G9T 2H4;Canada
+86;448;GRNG;Greening;;Chemin de Clova;;;Quebec;;Canada
+87;1;GRIM;Grimsby;;Ontario Street;;;Ontario;L3M 3H6;Canada
+88;70;GUEL;Guelph;;Macdonell Street;;Guelph;Ontario;N1H 0A9;Canada
+89;450;GUIL;Guildwood;;Westlake Road;;Toronto;Ontario;M1E 1L8;Canada
+90;453;HEBV;Hebertville;;Rue Saint-Louis;;;Quebec;G0W 2L0;Canada
+91;437;HERV;Hervey;;Chemin Saint-Charles;;;Quebec;G0X 3G0;Canada
+92;417;HIBB;Hibbard;;Route 461;;;Quebec;;Canada
+93;91;HLSP;Hillsport;;;;Unorganized Thunder Bay District;Ontario;;Canada
+94;134;HRDL;Hirondelle;;Chemin Lac aux perles;;;Quebec;;Canada
+95;63;HNPN;Hornepayne;;5th Avenue;;Hornepayne Township;Ontario;P0M 1Z0;Canada
+96;323;INGR;Ingersoll;;Via Rail Driveway;;;Ontario;N5C 3C6;Canada
+97;457;JOLI;Joliette;380;Rue Champlain;;Joliette;Quebec;J6E 2S1;Canada
+98;444;JONQ;Jonquiere;3875;Rue Colbert;;Saguenay;Quebec;G7X 9B1;Canada
+99;58;KGON;Kingston;;John Counter Boulevard;;Kingston;Ontario;K7M 0C8;Canada
+100;420;KINO;Kinogama;;Kormak Road;;Unorganized North Sudbury;Ontario;;Canada
+101;161;KISK;Kiskisink;;Chemin Van Bruyssel-Kiskissink;;;Quebec;;Canada
+102;114;KITC;Kitchener;;Breithaupt Street;;Kitchener;Ontario;N2H 4C3;Canada
+103;177;KOND;Kondiaronk;;;;;Quebec;;Canada
+104;164;KORM;Kormak;;;;Unorganized North Sudbury;Ontario;;Canada
+105;138;LPOC;La Pocatiere;;Avenue de la Gare;;Sainte-Anne-de-la-Pocatière;Quebec;G0R 1Z0;Canada
+106;433;LTUQ;La Tuque;;Rue Lucien-Filion;;;Quebec;G9X 2X6;Canada
+107;404;LBOU;Lac Bouchette;129;Route Victor-Delamarre;;;Quebec;;Canada
+108;203;LDAR;Lac Darey;;Chemin Pourvoirie Duplessis;;;Quebec;;Canada
+109;51;LDES;Lac des Roches;;;;;Quebec;;Canada
+110;183;LEDW;Lac Edouard;;Rue Edmond;;;Quebec;;Canada
+111;46;LMAL;Lac Malouin;;Route 3 (Zec Jeannotte);;;Quebec;;Canada
+112;255;PRLL;Lac-aux-Perles;;Chemin Lac aux perles;;;Quebec;;Canada
+113;65;LAFO;Laforest;;;;Unorganized North Sudbury;Ontario;;Canada
+114;394;LNGL;Langlade;;;;;Quebec;;Canada
+115;184;LARC;Larchwood;;Highway 144;;Greater Sudbury;Ontario;;Canada
+116;192;LEVA;Levack;;Highway 144;;Greater Sudbury;Ontario;P0M 2R0;Canada
+117;391;LOCH;Lochalsh;;Old Lochalsh Road;;Unorganized North Algoma;Ontario;;Canada
+118;93;LNDN;London;205;York Street;;London;Ontario;N6A 1B1;Canada
+119;95;LLAC;Longlac;;National Street;;;Ontario;P0T 2A0;Canada
+120;34;MALT;Malton;;Derry Road East;;Mississauga;Ontario;L4T 4J3;Canada
+121;215;MJBG;Manjobagues;;Route 461;;;Quebec;;Canada
+122;110;MTPD;Matapedia;;Rue Macdonell;;;Quebec;G0J 1V0;Canada
+123;212;MCCA;McCarthy;;Route 461;;;Quebec;;Canada
+124;68;MCKC;McKee's Camp;;;;Unorganized North Sudbury;Ontario;;Canada
+125;171;MCTC;McTavish;;Route 11;;;Quebec;G9X 3P4;Canada
+126;381;MEGI;Megiscane;;Chemin de Pénétration;;;Quebec;;Canada
+127;218;MTGM;Metagama;;;;Unorganized North Sudbury;Ontario;;Canada
+128;26;MIQK;Miquick;;2;;Linton;Quebec;;Canada
+129;376;MSBI;Missanabie;14;Curran Street;;Unorganized North Algoma;Ontario;P0M 2H0;Canada
+130;253;MNET;Monet;;;;;Quebec;;Canada
+131;342;MJLI;Mont-Joli;67;Avenue de la Gare;;;Quebec;G5H 2V0;Canada
+132;54;MMGY;Montmagny;4;Rue de la Station;;;Quebec;G5V 2P1;Canada
+133;226;MTRL;Montreal;;Rue Belmont;;Montreal;Quebec;H3B 4G1;Canada
+134;101;MUDR;Mud River;;;;Unorganized Thunder Bay District;Ontario;;Canada
+135;395;MUSK;Musk;;Austin Road;;Unorganized North Sudbury;Ontario;;Canada
+136;99;NAKI;Nakina;163;Railway Avenue;;;Ontario;P0T 2H0;Canada
+137;309;NAPN;Napanee;;Dairy Avenue;;;Ontario;K7R 3K6;Canada
+138;230;NEME;Nemegos;;;;Unorganized North Sudbury;Ontario;;Canada
+139;360;NICH;Nicholson;;;;Unorganized North Sudbury;Ontario;;Canada
+140;293;OBRI;O'Brien;;Highway 17;;Unorganized North Algoma;Ontario;;Canada
+141;436;OAKV;Oakville;;Cornwall Road;;Oakville;Ontario;L6J 3J1;Canada
+142;92;OBAX;Oba;;;;Unorganized North Algoma;Ontario;;Canada
+143;367;OSHA;Oshawa;;Thornton Road South;;Oshawa;Ontario;L1J 6W8;Canada
+144;303;OSKL;Oskelaneo Lodge;;;;;Quebec;;Canada
+145;617;OTTW;Ottawa;200;Tremblay Road;;Ottawa;Ontario;K1G 3H5;Canada
+146;426;PARE;Parent;;Rue Commerciale;;;Quebec;G0X 3P0;Canada
+147;69;PARS;Parry Sound;1;Station Street;;;Ontario;P2A 1Y7;Canada
+148;248;POGA;Pogamasing;;;;Unorganized North Sudbury;Ontario;;Canada
+149;37;PBDT;Pont Beaudet;;Route 3 (Zec Jeannotte);;;Quebec;;Canada
+150;9;PHOP;Port Hope;;Hayward Street;;;Ontario;L1A 1B2;Canada
+151;55;PRSS;Press;;Chemin de Pénétration;;;Quebec;;Canada
+152;628;QBEC;Quebec;;Pont-Tunnel Joseph-Samson;;Quebec;Quebec;G1K 3X2;Canada
+153;265;RAMS;Ramsey;;Ramsey Siding;;Unorganized North Sudbury;Ontario;;Canada
+154;320;RAPB;Rapide Blanc;;Chemin Rapide-Blanc-Station;;;Quebec;;Canada
+155;328;RMSK;Rimouski;;Rue Saint-Jean-Baptiste Est;;Rimouski;Quebec;G5L 1T6;Canada
+156;276;OSKR;Rivere Oskelaneo;;Route forestière 404;;;Quebec;;Canada
+157;327;RDLX;Riviere-du-Loup;;Rue Lafontaine;;Rivière-du-Loup;Quebec;G5R 2K4;Canada
+158;350;RAPX;Riviere-St-Pierre;;Rue des Loisirs;;;Quebec;G0A 3A0;Canada
+159;315;RBRT;Roberts;;Bisco Road;;Unorganized North Sudbury;Ontario;;Canada
+160;28;ROUS;Rousseau;975;Route Rousseau;;;Quebec;;Canada
+161;71;RUEL;Ruel;;;;Unorganized North Sudbury;Ontario;;Canada
+162;94;SHPN;Saint-Hilaire de Portneuf;;Route 3 (Zec Jeannotte);;;Quebec;;Canada
+163;631;SHYA;Saint-Hyacinthe;;Rue Sicotte;;Saint-Hyacinthe;Quebec;J2S 0L7;Canada
+164;43;SJUS;Saint-Justin;;Rue Duchesnay;;;Quebec;;Canada
+165;343;SLAM;Saint-Lambert;329;Avenue Saint-Denis;;;Quebec;J4P 2G5;Canada
+166;295;SMRB;Saint-Maurice Riviere Boom;;;;;Quebec;G0X 3R0;Canada
+167;130;SPAU;Saint-Paulin;;Rang Renversy;;;Quebec;J0K 3G0;Canada
+168;38;STIT;Saint-Tite;;Rue Marchildon;;;Quebec;G0X 3H0;Canada
+169;629;SFOY;Sainte-Foy;;Rue du Domaine-des-Retraités;;Quebec;Quebec;G1W 4V4;Canada
+170;39;SANF;Sanford;;Chemin du Trappeur (Zec Jeannotte);;;Quebec;;Canada
+171;306;SANM;Sanmaur;;Chemin de Wemotaci;;;Quebec;G0X 3R0;Canada
+172;341;SARN;Sarnia;;Green Street;;Sarnia;Ontario;N7T 2K4;Canada
+173;634;SAUV;Sauve (EXO);;Rue Saint-Denis;;Montreal;Quebec;H2M 1P2;Canada
+174;42;SAYA;Sayabec;;Rue Lacroix;;;Quebec;G0J 3K0;Canada
+175;460;SENN;Senneterre;;4e Rue Ouest;;;Quebec;J0Y 2M0;Canada
+176;459;SHWN;Shawinigan;;Chemin du CNR;;Shawinigan;Quebec;G9N 2B4;Canada
+177;287;SHEA;Sheahan;;;;Unorganized North Sudbury;Ontario;;Canada
+178;125;SIGN;Signai;;Chemin de Pénétration;;;Quebec;;Canada
+179;638;SNKR;Sinker;;Metagama Road;;Unorganized North Sudbury;Ontario;;Canada
+180;377;SMTF;Smiths Falls;;Union Street;;;Ontario;K7A 2S2;Canada
+181;60;SPAR;South Parry;;Avenue Road;;;Ontario;P2A 1Y3;Canada
+182;185;SCAT;St. Catharines;;Great Western Street;;St. Catharines;Ontario;L2S 1L5;Canada
+183;11;SMYS;St. Marys;5;James Street North;;;Ontario;N4X 1B1;Canada
+184;166;STAD;Stadacona;;Route 3 (Zec Jeannotte);;;Quebec;;Canada
+185;286;STRN;Strachan;;;;;Quebec;;Canada
+186;329;STRL;Stralak;;;;Unorganized North Sudbury;Ontario;;Canada
+187;7;STRF;Stratford;;Nile Street;;Stratford;Ontario;N5A 3W5;Canada
+188;14;STRR;Strathroy;;Metcalfe Street;;Strathroy-Caradoc;Ontario;N7G 3Z1;Canada
+189;621;SUDB;Sudbury;;Elgin Street;;Greater Sudbury;Ontario;P3E 1E3;Canada
+190;4;SUDJ;Sudbury Jct;;Lasalle Boulevard;;Greater Sudbury;Ontario;P3A 4R7;Canada
+191;266;SULT;Sultan;;Highway 667;;Unorganized North Sudbury;Ontario;;Canada
+192;47;SMQU;Summit;;;;;Quebec;;Canada
+193;637;SWAN;Swanson;;Esnagi Dam;;Unorganized North Algoma;Ontario;;Canada
+194;292;TIMB;Timbrell;;Chemin de Clova;;;Quebec;;Canada
+195;119;TRTO;Toronto;140;Bay Street;;Toronto;Ontario;M5J 2L5;Canada
+196;413;TRNJ;Trenton Junction;;Telephone Road;;Quinte West;Ontario;K8V 5P9;Canada
+197;170;TPIS;Trois Pistoles;;Rue de la Gare;;;Quebec;G0L 4K0;Canada
+198;247;VBRU;Van Bruyssels;;Chemin Van Bruyssel-Kiskissink;;;Quebec;;Canada
+199;339;VDRY;Vandry;;Chemin de Vandry;;;Quebec;;Canada
+200;59;WSHG;Washago;;Quetton Street;;Severn;Ontario;L0K 2B0;Canada
+201;76;WSTR;Westree;;;;Unorganized North Sudbury;Ontario;;Canada
+202;49;WYMT;Weymont;;Rue A;;;Quebec;G0X 3R0;Canada
+203;116;WHTR;White River;;Winnipeg Street North;;;Ontario;;Canada
+204;168;WGWC;Wigwam;;;;;Quebec;;Canada
+205;299;WNDG;Windigo;;Route 11;;;Quebec;G9X 3P4;Canada
+206;618;WDON;Windsor;;Montreuil Avenue;;Windsor;Ontario;N8Y 2M9;Canada
+207;128;WOMR;Woman River;;Hong Kong Road;;Unorganized North Sudbury;Ontario;;Canada
+208;282;WDST;Woodstock;100;Victoria Street South;;Woodstock;Ontario;N4S 8R4;Canada
+209;280;WYOM;Wyoming;579;Front Street;;;Ontario;N0N 1T0;Canada
